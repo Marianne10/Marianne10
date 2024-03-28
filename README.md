@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header"/>
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--título-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marianne+Valério+Nunes!;I'm+20+years+old!;I'm+from+Brazil!;I'm+Studying+Multiplatform+Software+Development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -30,4 +33,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer"/>
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--título-->
