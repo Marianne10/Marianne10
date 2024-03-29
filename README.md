@@ -20,13 +20,10 @@
 <img align="center" height="84" width="84" src="https://github.com/Marianne10">
 </a>
 
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.co">
-</a>
 
 
 <a href="mailto:cmp.1a.valerionunesm@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/Marianne10/Marianne10/edit/main/README.md">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/edit/main/README.md">
 </a>
 
 
@@ -88,6 +85,16 @@
 
 </div>
 
+<h2 align="left">  [Projeto API - FATEC ](https://github.com/nomadesfatec)</h2>
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+
+
+</picture>
 
 <div align="center">
   
