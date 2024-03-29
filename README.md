@@ -1,11 +1,30 @@
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+
 <!--divisor-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--título-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marianne;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BA55D3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marianne;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
+
+*Olá! Me chamo Marianne e sou uma jovem estudante de programação* <br><br>
+  
+  - 🌱 Cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos - Prof. Jessen Vidal.<br>
+
+  - 🗓️ Atualmete no 1º semestre do ensino superior e rumo ao full-stack!
+
+<details>
+  <summary>👨‍💻 Mais sobre mim </summary>
+  
+  - 💭 Tenho 20 anos, atualmente morando na cidade de São José dos Campos.Estou desenvolvendo minhas habilidades em HTML, CSS, Git, Javascript, My SQL e Python.<br>
+  
+  - ⚡ Gosto de tocar instrumentos (principalmente violão e teclado), desenhar e estudar sempre que possível, afim de expandir meus conhecimentos!
+</details>
+
+
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 
 
@@ -91,7 +110,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarianne10&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarianne10&s=50&c=BA55D3&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
@@ -103,7 +122,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--título-->
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+
 
 
 
