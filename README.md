@@ -75,7 +75,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/4a/46/4d/4a464dacc686b1df94d90e4aa5b6c542.gif" alt="Imagem">
+  <img align="center" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif" alt="Imagem">
 </p>
 
 
