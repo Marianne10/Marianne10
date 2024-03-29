@@ -71,7 +71,7 @@
 
 
 
-<h2 align="left">  Projeto API - FATEC (https://github.com/nomadesfatec)</h2>
+<h2 align="left">  Projeto API - FATEC </h2>
 
 <!-- GIF -->
 <p align="left">
