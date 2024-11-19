@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--título-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BA55D3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marianne;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BA55D3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marianne;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 
@@ -11,7 +11,7 @@
   
   - 🌱 Cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos - Prof. Jessen Vidal.<br>
 
-  - 🗓️ Atualmete no 1º semestre do ensino superior e rumo ao full-stack!
+  - 🗓️ Atualmete no 2º semestre do ensino superior e rumo ao full-stack!
 
 <details>
   <summary>👨‍💻 Mais sobre mim </summary>
